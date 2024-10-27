@@ -1,0 +1,24 @@
+You should also create a text file, specification.txt, which lists the 10 HTML tags and 5 CSS properties
+you’ve used, as well as a brief (one-sentence) description of how you chose to use JavaScript and Bootstrap.
+
+10 HTML
+1. <img>
+2. <i>
+3. <nav>
+4. <h1>
+5. <ul>
+6. <a>
+7. <form>
+8. <input>
+9. <textarea>
+10. <button>
+
+5 CSS
+1. border
+2. outline
+3. text-decoration
+4. display
+5. line-height
+
+JavaScript: To create a side menu that appears in mobile phone screens and is displayed when the user clicks on the menu icon and closed when the user clicks the exit icon.
+Bootstrap: 
